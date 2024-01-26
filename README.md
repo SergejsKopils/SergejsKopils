@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on projects that leverage AI and ML to solve complex challenges.
 - 📫 How to reach me:
 - Email: kopserge@gmail.com
-- Instagram: https://www.instagram.com/serge.kop/ 
-- 😄 Pronouns he/him
 - ⚡ Fun fact about me: I am currently pursuing two master's degrees simultaneously, reflecting my diverse interests and dedication. One is in Computer Science with a focus on Data Analytics and Artificial Intelligence from the University of the West of England (UWE), and the other is in Architecture RISEBA Faculty of Architecture and Design (RISEBA FAD), Latvia, where I am deeply interested in integrating machine learning and AI into architectural design.  
 
 <!---

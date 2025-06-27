@@ -1,6 +1,8 @@
 <h1>Hi, I'm Serge!</h1>
 <h3>I'm interested in Artificial Intelligence and Machine Learning, as well as Architecture and Design.</h3>
 
+
+
 ### 👨‍💻 Master of Natural Sciences in Computer Science: **[Data Analytics and Artificial Intelligence](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/)**
 
 
@@ -14,9 +16,21 @@
   - [Independent Project](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Programming-for-Data-Analytics/Independent-Project)
 - <b>Research Methodology</b>
   - [Assignment](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Research-Methodology-continued)
- 
+
+---
+
+ ### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<br />
     
-<h2> 🤳 Connect with me:</h2>
+### 🤳 Connect with me:
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

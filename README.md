@@ -10,6 +10,14 @@
   - [Analysis Of Data Synchronization Methods And Framework In Wire Arc Additive Manufacturing (WAAM)](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework)</b>
 - <b>Artificial Intelligence Group Project</b>
   - [Adverse Media Monitoring And Client Risk Assessment System](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project)
+- <b>Machine Learning and Predictive Analytics</b>
+  - [Mushroom Risk Prediction and Grouping with Logistic Regression & K-Means](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Machine-Learning-and-Predictive-Analytics)
+  - Developed a complete ML pipeline to classify mushrooms as edible or poisonous using Logistic Regression and K-Means clustering.  
+    - Data preprocessing: handled missing data, encoded categorical features  
+    - Built supervised model (Logistic Regression) with ~63% accuracy and AUC of 0.56  
+    - Used unsupervised learning (K-Means) with PCA visualization  
+    - Evaluated models with accuracy, F1-score, AUC, cross-validation, and silhouette score  
+    - Tools: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 - <b>Data Mining</b>
   - [Computer Practice](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining)
 - <b>Programming for Data Analytics</b>

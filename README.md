@@ -15,7 +15,7 @@
     Developed a complete ML pipeline to classify mushrooms as edible or poisonous using Logistic Regression and K-Means clustering.  
     - Tools: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 - <b>Data Mining</b>
-  - [Exploratory Data Analysis on Auto MPG Dataset](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining)  
+  - [Exploratory Data Analysis on Auto MPG Dataset](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining/practice-1-data-exploration)  
     Conducted a comprehensive data exploration project on the Auto MPG dataset to analyze fuel efficiency trends and vehicle characteristics.
     - Tools: `pandas`, `matplotlib`, `seaborn`, `numpy`
 - <b>Programming for Data Analytics</b>

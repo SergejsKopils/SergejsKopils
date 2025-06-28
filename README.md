@@ -35,8 +35,10 @@
 
 <img align="left" alt="Rhino 3D Logo" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/SergejsKopils/Assets/main/icon/rhinoceros-3d-seeklogo.png"/>
 <img align="left" alt="Grasshopper Logo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/grasshopper-3d-seeklogo.png"/>
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Photoshop_2.png" />
+<img align="left" alt="OnshapeLogo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Onshape%20logo.png"/>
+<img align="left" alt="Fusion 360 Logo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/autodesk-fusion-360-logo-png_seeklogo-482400.png"/>
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Illustrator_2.png"/>
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Photoshop_2.png" />
 <img align="left" alt="InDesign" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/InDesign_2.png"/>
 
 

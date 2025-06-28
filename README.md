@@ -45,7 +45,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/github-icon-2.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/tableau-software.svg" />
+
           
           
 <br><br>
@@ -74,6 +75,9 @@
 [instagram]: https://www.instagram.com/sergejs.kopils  
 
 <!--
+<img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sergejs.kopils | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 

@@ -21,6 +21,10 @@
   - [Clustering Analysis of California Housing Dataset](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining/practice-2-cluster-analysis)  
     Performed clustering using K-means and hierarchical methods on standardized California housing data to identify distinct housing market segments based on economic and housing features.  
     - Tools: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
+  - [Housing Price Prediction Project](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining/practice-3-regression-analysis)  
+    Developed regression models to predict housing prices using features such as size, number of rooms, and condition. Applied linear regression and random forest regression, including data preprocessing, feature scaling, and evaluation of model performance.  
+    - Tools: `pandas`, `scikit-learn`, `statsmodels`, `matplotlib`, `seaborn`
+    
 - <b>Programming for Data Analytics</b>
   - [Market Analysis Using Web Scraping and Data Visualization](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Programming-for-Data-Analytics/Independent-Project)  
     This project demonstrates scraping, cleaning, analyzing, and visualizing real estate garage ads data from a Latvian website.

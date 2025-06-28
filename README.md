@@ -21,7 +21,7 @@
 - <b>Data Mining</b>
   - [Computer Practice](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining)
 - <b>Programming for Data Analytics</b>
-  - [Market Analysis Using Web Scraping and Data Visualization](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Programming-for-Data-Analytics/Independent-Project)
+  - [Market Analysis Using Web Scraping and Data Visualization](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Programming-for-Data-Analytics/Independent-Project)  
     Self-driven data analytics project focused on applying Python programming and data manipulation libraries to extract insights from datasets.
     - Data cleaning and preprocessing 
     - Exploratory data analysis and visualization with 

@@ -9,7 +9,7 @@
 - <b>Master Thesis</b>
   - [Analysis Of Data Synchronization Methods And Framework In Wire Arc Additive Manufacturing (WAAM)](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework)</b>
 - <b>Artificial Intelligence Group Project</b>
-  - [Adverse Media Monitoring And Client Risk Assessment System](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Artificial-Intelligence-Group-Project)
+  - [Adverse Media Monitoring And Client Risk Assessment System](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project)
 - <b>Data Mining</b>
   - [Computer Practice](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining)
 - <b>Programming for Data Analytics</b>

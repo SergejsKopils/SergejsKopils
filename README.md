@@ -17,7 +17,10 @@
 - <b>Data Mining</b>
   - [Exploratory Data Analysis on Auto MPG Dataset](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining/practice-1-data-exploration)  
     Conducted a comprehensive data exploration project on the Auto MPG dataset to analyze fuel efficiency trends and vehicle characteristics.
-    - Tools: `pandas`, `matplotlib`, `seaborn`, `numpy`
+    - Tools: `pandas`, `matplotlib`, `seaborn`
+  - [Clustering Analysis of California Housing Dataset](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining/practice-2-cluster-analysis)  
+    Performed clustering using K-means and hierarchical methods on standardized California housing data to identify distinct housing market segments based on economic and housing features.  
+    - Tools: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 - <b>Programming for Data Analytics</b>
   - [Market Analysis Using Web Scraping and Data Visualization](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Programming-for-Data-Analytics/Independent-Project)  
     This project demonstrates scraping, cleaning, analyzing, and visualizing real estate garage ads data from a Latvian website.

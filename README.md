@@ -13,21 +13,12 @@
 - <b>Machine Learning and Predictive Analytics</b>
   - [Mushroom Risk Prediction and Grouping with Logistic Regression & K-Means](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Machine-Learning-and-Predictive-Analytics)  
     Developed a complete ML pipeline to classify mushrooms as edible or poisonous using Logistic Regression and K-Means clustering.  
-    - Data preprocessing: handled missing data, encoded categorical features  
-    - Built supervised model (Logistic Regression) with ~63% accuracy and AUC of 0.56  
-    - Used unsupervised learning (K-Means) with PCA visualization  
-    - Evaluated models with accuracy, F1-score, AUC, cross-validation, and silhouette score  
     - Tools: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 - <b>Data Mining</b>
   - [Computer Practice](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining)
 - <b>Programming for Data Analytics</b>
   - [Market Analysis Using Web Scraping and Data Visualization](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Programming-for-Data-Analytics/Independent-Project)  
     Self-driven data analytics project focused on applying Python programming and data manipulation libraries to extract insights from datasets.
-    - Data cleaning and preprocessing 
-    - Exploratory data analysis and visualization with 
-    - Web scraping and data extraction 
-    - Geographic data processing and mapping
-    - Basic statistical analysis and visualization
     - Tools: `pandas`, `matplotlib`, `seaborn`, `numpy`, `BeautifulSoup`, `osmnx`, `folium`
 - <b>Research Methodology</b>
   - [Assignment](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Research-Methodology-continued)
@@ -75,6 +66,18 @@
 [instagram]: https://www.instagram.com/sergejs.kopils  
 
 <!--
+    - Data preprocessing: handled missing data, encoded categorical features  
+    - Built supervised model (Logistic Regression) with ~63% accuracy and AUC of 0.56  
+    - Used unsupervised learning (K-Means) with PCA visualization  
+    - Evaluated models with accuracy, F1-score, AUC, cross-validation, and silhouette score  
+
+    - Data cleaning and preprocessing 
+    - Exploratory data analysis and visualization with 
+    - Web scraping and data extraction 
+    - Geographic data processing and mapping
+    - Basic statistical analysis and visualization
+
+
 <img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 
 

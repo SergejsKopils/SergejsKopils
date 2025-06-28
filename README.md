@@ -30,14 +30,18 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
+          
+<br />
+
+---
+
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"/>
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-          
-
-          
-<br />
+<img align="left" alt="Rhino 3D Logo" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/SergejsKopils/Assets/main/icon/rhinoceros-3d-seeklogo.png"/>
+<img src="https://raw.githubusercontent.com/SergejsKopils/Assets/main/icon/rhinoceros-3d-seeklogo.png" alt="Rhino 3D Logo" width="30" />
 
 <br />
+
     
 ### 🤳 Connect with me:
 

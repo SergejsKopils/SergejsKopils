@@ -12,7 +12,7 @@
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/tableau-software.svg" />
           
-
+<br><br>
 
 <img align="left" alt="Rhino 3D Logo" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/SergejsKopils/Assets/main/icon/rhinoceros-3d-seeklogo.png"/>
 <img align="left" alt="Grasshopper Logo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/grasshopper-3d-seeklogo.png"/>

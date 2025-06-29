@@ -9,7 +9,9 @@
 - <b>Master Thesis</b>
   - [Analysis Of Data Synchronization Methods And Framework In Wire Arc Additive Manufacturing (WAAM)](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework)</b>
 - <b>Artificial Intelligence Group Project</b>
-  - [Adverse Media Monitoring And Client Risk Assessment System](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project)
+  - [Adverse Media Monitoring And Client Risk Assessment System](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project)  
+    Led the development of [Step 3](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb) and acted as [Project Manager](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/tree/main/Memo) in a collaborative system for identifying reputational risks from online sources.
+    - Tools: `Google API`, `BeautifulSoup`, `Regex`, `spaCy`, `TextBlob`, `OpenAI GPT-4`, `pandas`, `ThreadPoolExecutor`
 - <b>Machine Learning and Predictive Analytics</b>
   - [Mushroom Risk Prediction and Grouping with Logistic Regression & K-Means](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Machine-Learning-and-Predictive-Analytics)  
     Developed a complete ML pipeline to classify mushrooms as edible or poisonous using Logistic Regression and K-Means clustering.  
@@ -24,8 +26,7 @@
   - [Housing Price Prediction Project](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining/practice-3-regression-analysis)  
     Developed regression models to predict housing prices using features such as size, number of rooms, and condition. Applied linear regression and random forest regression, including data preprocessing, feature scaling, and evaluation of model performance.  
     - Tools: `pandas`, `scikit-learn`, `statsmodels`, `matplotlib`, `seaborn`
-    
-- <b>Programming for Data Analytics</b>
+    - <b>Programming for Data Analytics</b>
   - [Market Analysis Using Web Scraping and Data Visualization](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Programming-for-Data-Analytics/Independent-Project)  
     This project demonstrates scraping, cleaning, analyzing, and visualizing real estate garage ads data from a Latvian website.
     - Tools: `pandas`, `matplotlib`, `seaborn`, `numpy`, `BeautifulSoup`, `osmnx`, `folium`

@@ -10,8 +10,8 @@
   - [Analysis Of Data Synchronization Methods And Framework In Wire Arc Additive Manufacturing (WAAM)](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework)</b>
 - <b>Artificial Intelligence Group Project</b>
   - [Adverse Media Monitoring And Client Risk Assessment System](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project)  
-    Led the development of [Step 3](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb) and acted as [Project Manager](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/tree/main/Memo) in a collaborative system for identifying reputational risks from online sources.
-    - Tools: `Google API`, `BeautifulSoup`, `Regex`, `spaCy`, `TextBlob`, `OpenAI GPT-4`, `pandas`, `ThreadPoolExecutor`
+    Led [Step 3](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb) by developing automated web search and analysis workflows for identifying reputational risks from online sources, while also serving as [Project Manager](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/tree/main/Memo) responsible for team coordination, task assignment, and GitHub management.
+    - Tools: `Google API`, `OpenAI GPT-4`, `Google Custom Search API`, `BeautifulSoup`, `Regex`, `spaCy`, `TextBlob`, `pandas`, `ThreadPoolExecutor`, `concurrent.futures`
 - <b>Machine Learning and Predictive Analytics</b>
   - [Mushroom Risk Prediction and Grouping with Logistic Regression & K-Means](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Machine-Learning-and-Predictive-Analytics)  
     Developed a complete ML pipeline to classify mushrooms as edible or poisonous using Logistic Regression and K-Means clustering.  
@@ -76,6 +76,10 @@
 [instagram]: https://www.instagram.com/sergejs.kopils  
 
 <!--
+
+    Led the development of [Step 3](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb) and acted as [Project Manager](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/tree/main/Memo) in a collaborative system for identifying reputational risks from online sources. 
+
+    
     - Data preprocessing: handled missing data, encoded categorical features  
     - Built supervised model (Logistic Regression) with ~63% accuracy and AUC of 0.56  
     - Used unsupervised learning (K-Means) with PCA visualization  

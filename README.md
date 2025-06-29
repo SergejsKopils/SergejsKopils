@@ -1,3 +1,28 @@
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/github-icon-2.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/tableau-software.svg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight" align="right" />
+          
+<br><br>
+
+<img align="left" alt="Rhino 3D Logo" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/SergejsKopils/Assets/main/icon/rhinoceros-3d-seeklogo.png"/>
+<img align="left" alt="Grasshopper Logo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/grasshopper-3d-seeklogo.png"/>
+<img align="left" alt="OnshapeLogo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Onshape%20logo.png"/>
+<img align="left" alt="Fusion 360 Logo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/autodesk-fusion-360-logo-png_seeklogo-482400.png"/>
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Photoshop_2.png" />
+<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Illustrator_2.png"/>
+<img align="left" alt="InDesign" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/InDesign_2.png"/>
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/unreal-engine.png"/>
+
+<br><br>
+
 <h1>Hi, I'm Serge!</h1>
 <h3>I'm interested in Artificial Intelligence and Machine Learning, as well as Architecture and Design.</h3>
 
@@ -47,8 +72,7 @@
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/tableau-software.svg" />
-
-          
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight" align="right" />
           
 <br><br>
 
@@ -60,12 +84,6 @@
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Illustrator_2.png"/>
 <img align="left" alt="InDesign" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/InDesign_2.png"/>
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/unreal-engine.png"/>
-
-<br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight)
-
-
 
 <br><br>
     
@@ -81,6 +99,7 @@
 
     Led the development of [Step 3](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb) and acted as [Project Manager](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/tree/main/Memo) in a collaborative system for identifying reputational risks from online sources. 
 
+![Top Langs] align="right"(https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SergejsKopils&theme=tokyonight_icons=true)
 
 

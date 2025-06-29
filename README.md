@@ -25,6 +25,8 @@
 
 <br><br>
 
+---
+
 ### 👨‍💻 Master of Natural Sciences in Computer Science: **[Data Analytics and Artificial Intelligence](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/)**
 
 

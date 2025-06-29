@@ -32,7 +32,7 @@
 
 - <b>Master Thesis</b>
   - [Analysis Of Data Synchronization Methods And Framework In Wire Arc Additive Manufacturing (WAAM)](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework)</b>          
-    Developed methods for spatiotemporal synchronization of multi-source WAAM data streams to enable anomaly detection and process monitoring in metal additive manufacturing. The thesis combines data preprocessing, synchronization algorithms, and visualization techniques to improve process quality and control.
+    Developed methods for spatiotemporal synchronization of multi-source (Initial, Process, Scan) WAAM data streams to enable anomaly detection and process monitoring in metal additive manufacturing. The thesis combines data preprocessing, synchronization algorithms, and visualization techniques to improve process quality and control.
 
 - <b>Artificial Intelligence Group Project</b>
   - [Adverse Media Monitoring And Client Risk Assessment System](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project)  

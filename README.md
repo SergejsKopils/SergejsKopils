@@ -59,6 +59,20 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight)
+
+<br><br>
+    
+### 🤳 Connect with me:
+
+[<img align="left" alt="sergejs-kopils | LinkedIn" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/linkedin-icon-3.svg" />][linkedin]
+[<img align="left" alt="sergejs.kopils | Instagram" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/instagram-2016-5.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/sergejs-kopils  
+[instagram]: https://www.instagram.com/sergejs.kopils  
+
+<!--
+
  ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -83,21 +97,10 @@
 <img align="left" alt="InDesign" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/InDesign_2.png"/>
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/unreal-engine.png"/>
 
-<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight)
 
-<br><br>
-    
-### 🤳 Connect with me:
 
-[<img align="left" alt="sergejs-kopils | LinkedIn" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/linkedin-icon-3.svg" />][linkedin]
-[<img align="left" alt="sergejs.kopils | Instagram" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/instagram-2016-5.svg" />][instagram]
 
-[linkedin]: https://www.linkedin.com/in/sergejs-kopils  
-[instagram]: https://www.instagram.com/sergejs.kopils  
-
-<!--
 
     Led the development of [Step 3](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb) and acted as [Project Manager](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/tree/main/Memo) in a collaborative system for identifying reputational risks from online sources. 
 

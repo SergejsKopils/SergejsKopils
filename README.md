@@ -32,8 +32,9 @@
 
 - <b>Master Thesis</b>
   - [Analysis Of Data Synchronization Methods And Framework In Wire Arc Additive Manufacturing (WAAM)](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework)</b>          
-    Developed methods for [spatiotemporal synchronization](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/src/ProcessDataIntegration) of multi-source ([Initial](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/data/initial), [Process](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/data/process), [Sensor](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/data/sensor)) WAAM data streams to enable [anomaly detection](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/src/AnomalyDetection) and process monitoring in metal additive manufacturing. The thesis combines data preprocessing, [synchronization algorithms](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/src/ProcessData_ClusterByZ_DBSCAN), and [visualization](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Thesis-waam-sync-anomaly-framework/src/1MethodGroundTruth/output/plots_GroundTruth_layers/all_layers_3D.png) techniques to improve process quality and control.
-
+   - **Master Thesis**  
+  - [Analysis Of Data Synchronization Methods And Framework In Wire Arc Additive Manufacturing (WAAM)](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework)  
+    Developed methods for spatiotemporal synchronization of multi-source WAAM data streams to enable anomaly detection and process monitoring in metal additive manufacturing. The thesis combines data preprocessing, synchronization algorithms, and visualization techniques to improve process quality and control.
 - <b>Artificial Intelligence Group Project</b>
   - [Adverse Media Monitoring And Client Risk Assessment System](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project)  
     Led [Step 3](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb) by developing automated web search and analysis workflows for identifying reputational risks from online sources, while also serving as [Project Manager](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/tree/main/Memo) responsible for team coordination, task assignment, and GitHub management. [Reflective report](https://github.com/SergejsKopils/Assets/blob/main/docs/Sergejs_Kopils_ST83519_Reflective_Report.pdf).
@@ -72,6 +73,11 @@
 [instagram]: https://www.instagram.com/sergejs.kopils  
 
 <!--
+
+
+    Developed methods for [spatiotemporal synchronization](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/src/ProcessDataIntegration) of multi-source ([Initial](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/data/initial), [Process](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/data/process), [Sensor](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/data/sensor)) WAAM data streams to enable [anomaly detection](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/src/AnomalyDetection) and process monitoring in metal additive manufacturing. The thesis combines data preprocessing, [synchronization algorithms](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Thesis-waam-sync-anomaly-framework/src/ProcessData_ClusterByZ_DBSCAN), and [visualization](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Thesis-waam-sync-anomaly-framework/src/1MethodGroundTruth/output/plots_GroundTruth_layers/all_layers_3D.png) techniques to improve process quality and control.
+
+
 
  ### 🧰 Languages and Tools
 

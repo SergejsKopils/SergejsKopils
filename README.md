@@ -83,7 +83,7 @@
 
 <br><br>
 
-![Top Langs] align="right"(https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight)
 
 <br><br>
     

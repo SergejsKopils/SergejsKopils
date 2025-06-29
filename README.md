@@ -1,4 +1,5 @@
-<br><br>
+<h1>Hi, I'm Serge!</h1>
+<h3>I'm interested in Artificial Intelligence and Machine Learning, as well as Architecture and Design.</h3>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />

@@ -26,7 +26,7 @@
   - [Housing Price Prediction Project](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining/practice-3-regression-analysis)  
     Developed regression models to predict housing prices using features such as size, number of rooms, and condition. Applied linear regression and random forest regression, including data preprocessing, feature scaling, and evaluation of model performance.  
     - Tools: `pandas`, `scikit-learn`, `statsmodels`, `matplotlib`, `seaborn`
-    - <b>Programming for Data Analytics</b>
+- <b>Programming for Data Analytics</b>
   - [Market Analysis Using Web Scraping and Data Visualization](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Programming-for-Data-Analytics/Independent-Project)  
     This project demonstrates scraping, cleaning, analyzing, and visualizing real estate garage ads data from a Latvian website.
     - Tools: `pandas`, `matplotlib`, `seaborn`, `numpy`, `BeautifulSoup`, `osmnx`, `folium`

@@ -25,11 +25,6 @@
 
 <br><br>
 
-<h1>Hi, I'm Serge!</h1>
-<h3>I'm interested in Artificial Intelligence and Machine Learning, as well as Architecture and Design.</h3>
-
-
-
 ### 👨‍💻 Master of Natural Sciences in Computer Science: **[Data Analytics and Artificial Intelligence](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/)**
 
 

@@ -61,8 +61,10 @@
 <img align="left" alt="InDesign" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/InDesign_2.png"/>
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/unreal-engine.png"/>
 
+<br><br>
 
->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight)
+
 
 
 <br><br>
@@ -78,6 +80,9 @@
 <!--
 
     Led the development of [Step 3](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb) and acted as [Project Manager](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/tree/main/Memo) in a collaborative system for identifying reputational risks from online sources. 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SergejsKopils&theme=tokyonight_icons=true)
+
 
     
     - Data preprocessing: handled missing data, encoded categorical features  

@@ -29,7 +29,7 @@
 
 ### 👨‍💻 Master of Natural Sciences in Computer Science: **[Data Analytics and Artificial Intelligence](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/)**
 
-## Projects and Research
+### Projects and Research
 
 - <b>Master Thesis</b>
   - [Analysis Of Data Synchronization Methods And Framework In Wire Arc Additive Manufacturing (WAAM)](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Thesis-waam-sync-anomaly-framework/docs/MaTSIposter_v29.pdf)</b>          
@@ -69,6 +69,13 @@
     This project demonstrates scraping, cleaning, analyzing, and visualizing real estate garage ads data from a Latvian website. [Report](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Programming-for-Data-Analytics/Independent-Project/Sergejs_Kopils_Market_Analysis_Using_Web_Scraping_and_Data_Visualization.pdf).
     - Tools: `pandas`, `matplotlib`, `seaborn`, `numpy`, `BeautifulSoup`, `osmnx`, `folium`
 
+- <b>Business Intelligence and Data Visualization</b>
+  - Developed an interactive dashboard project titled "Large Scale North American Retailer Analysis" using Tableau Public.  
+    Acted as a BI consultant to analyze sales trends, inventory management, and financial performance of a major North American retailer across multiple stores from 2017 to 2020.  
+    The project involved data cleaning, preparation, normalization, calculated fields, visual design aligned with institutional branding, and interactive dashboards published for stakeholder use.  
+    - Tools: `Tableau Public`, `Tableau Desktop`, `Python` (for data preparation), `Interworks Color Tool`, `Adobe Color`
+    - Dashboard: [Comprehensive Retail Sales Analysis](https://public.tableau.com/app/profile/serge.kop/viz/COMPREHENSIVERETAILSALESANALYSIS/COMPREHENSIVERETAILSALESANALYSIS)
+
 - <b>Research Methodology</b>
   - [Assignment](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Research-Methodology-continued)
 
@@ -76,7 +83,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight)
     
-### 🤳 Connect with me:
+
 
 [<img align="left" alt="sergejs-kopils | LinkedIn" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/linkedin-icon-3.svg" />][linkedin]
 [<img align="left" alt="sergejs.kopils | Instagram" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/instagram-2016-5.svg" />][instagram]
@@ -91,7 +98,7 @@
 
     Developed methods for spatiotemporal synchronization of multi-source WAAM data streams to enable anomaly detection and process monitoring in metal additive manufacturing. The thesis combines data preprocessing, synchronization algorithms, and visualization techniques to improve process quality and control.
 
-
+### 🤳 Connect with me:
  ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />

@@ -40,28 +40,24 @@
 - <b>Artificial Intelligence Group Project</b>
   - [Adverse Media Monitoring And Client Risk Assessment System](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project)  
     Led [Step 3](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb) by developing automated web search and analysis workflows for identifying reputational risks from online sources, while also serving as [Project Manager](https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project/tree/main/Memo) responsible for team coordination, task assignment, and GitHub management. [Reflective report](https://github.com/SergejsKopils/Assets/blob/main/docs/Sergejs_Kopils_ST83519_Reflective_Report.pdf)
-    - Tools: `Google API`, `OpenAI GPT-4`, `Google Custom Search API`, `BeautifulSoup`, `Regex`, `spaCy`, `TextBlob`, `pandas`, `ThreadPoolExecutor`, `concurrent.futures`
-   
-
+    - Tools: `Google API`, `OpenAI GPT-4`, `Google Custom Search API`, `BeautifulSoup`, `Regex`, `spaCy`, `TextBlob`, `pandas`, `ThreadPoolExecutor`, `concurrent.futures` 
 - <b>Machine Learning and Predictive Analytics</b>
   - [Mushroom Risk Prediction and Grouping with Logistic Regression & K-Means](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Machine-Learning-and-Predictive-Analytics)  
     Developed a complete ML pipeline to classify mushrooms as edible or poisonous using Logistic Regression and K-Means clustering. [Report](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Machine-Learning-and-Predictive-Analytics/Sergejs_Kopils_ST83519_20241222_CP_ML.pdf)  
     - Tools: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
-
 - <b>Big Data</b>
   - [Customer Behavior and Sentiment Analysis Using Structured and Unstructured Datasets](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Big-Data)          
     Conducted data-driven analysis of customer transactions and musical instrument reviews to identify behavioral patterns and sentiment trends. Combined structured data (CSV) and unstructured data (JSON) with ontology modeling to extract insights and represent semantic relationships. [Report](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Big-Data/Sergejs_Kopils_ST83519_CW1_Big_Data_Project_Report.pdf)          
     - Tools: `MongoDB Atlas`, `pandas`, `numpy`, `seaborn`, `matplotlib`, `dask`, `textblob`, `rdflib`, `RDF`, `ontology modeling`, `sklearn (LabelEncoder, MinMaxScaler)`, `JSON`, `CSV`, `FOAF`, `XSD`
-
 - <b>Data Mining</b>
   - [Exploratory Data Analysis on Auto MPG Dataset](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining/practice-1-data-exploration)  
-    Conducted a comprehensive data exploration project on the Auto MPG dataset to analyze fuel efficiency trends and vehicle characteristics.
+    Conducted a comprehensive data exploration project on the Auto MPG dataset to analyze fuel efficiency trends and vehicle characteristics. [Report](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Data-Mining/practice-1-data-exploration/Sergejs_Kopils_COMPUTER_PRACTICE_1_GitHub.pdf).
     - Tools: `pandas`, `matplotlib`, `seaborn`
   - [Clustering Analysis of California Housing Dataset](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining/practice-2-cluster-analysis)  
-    Performed clustering using K-means and hierarchical methods on standardized California housing data to identify distinct housing market segments based on economic and housing features.  
+    Performed clustering using K-means and hierarchical methods on standardized California housing data to identify distinct housing market segments based on economic and housing features. [Report](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Data-Mining/practice-2-cluster-analysis/Sergejs_Kopils_COMPUTER_PRACTICE_2_GitHub.pdf).  
     - Tools: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
   - [Housing Price Prediction Project](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Data-Mining/practice-3-regression-analysis)  
-    Developed regression models to predict housing prices using features such as size, number of rooms, and condition. Applied linear regression and random forest regression, including data preprocessing, feature scaling, and evaluation of model performance.  
+    Developed regression models to predict housing prices using features such as size, number of rooms, and condition. Applied linear regression and random forest regression, including data preprocessing, feature scaling, and evaluation of model performance. [Report](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Data-Mining/practice-3-regression-analysis/Sergejs_Kopils_COMPUTER_PRACTICE_3_GitHub.pdf).  
     - Tools: `pandas`, `scikit-learn`, `statsmodels`, `matplotlib`, `seaborn`
 - <b>Programming for Data Analytics</b>
   - [Market Analysis Using Web Scraping and Data Visualization](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Programming-for-Data-Analytics/Independent-Project)  

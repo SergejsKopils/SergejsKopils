@@ -50,7 +50,7 @@
 
 - <b>Big Data</b>
   - [Customer Behavior and Sentiment Analysis Using Structured and Unstructured Datasets](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Big-Data)          
-    Conducted data-driven analysis of customer transactions and musical instrument reviews to identify behavioral patterns and sentiment trends. Combined structured data (CSV) and unstructured data (JSON) with ontology modeling to extract insights and represent semantic relationships. [Report](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Big-Data/Sergejs_Kopils_ST83519_CW1_Big_Data_Project_Report.pdf)          
+    Conducted data-driven analysis of customer transactions and musical instrument reviews to identify behavioral patterns and sentiment trends. Combined structured data (CSV) and unstructured data (JSON) with ontology modeling to extract insights and represent semantic relationships. [Report](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Big-Data/Sergejs_Kopils_ST83519_CW1_Big_Data_Project_Report.pdf), [Project](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Big-Data/Sergejs_Kopils_ST83519_CW1_Big_Data_Project.pdf).          
     - Tools: `MongoDB Atlas`, `pandas`, `numpy`, `seaborn`, `matplotlib`, `dask`, `textblob`, `rdflib`, `RDF`, `ontology modeling`, `sklearn (LabelEncoder, MinMaxScaler)`, `JSON`, `CSV`, `FOAF`, `XSD`
 
 - <b>Data Mining</b>

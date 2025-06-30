@@ -70,7 +70,7 @@
     - Tools: `pandas`, `matplotlib`, `seaborn`, `numpy`, `BeautifulSoup`, `osmnx`, `folium`
 
 - <b>Business Intelligence and Data Visualization</b>
-  - [Large Scale North American Retailer Analysis](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Business-Intelligence-and-Data-Visualization/README.md)     
+  - [Large Scale North American Retailer Analysis](https://github.com/SergejsKopils/TSI-Institute/tree/main/TSI-Business-Intelligence-and-Data-Visualization)     
     Developed an [interactive dashboard](https://public.tableau.com/app/profile/serge.kop/viz/COMPREHENSIVERETAILSALESANALYSIS/COMPREHENSIVERETAILSALESANALYSIS) project using Tableau Public. Acted as a BI consultant to analyze sales trends, inventory management, and financial performance of a major North American retailer across multiple stores from 2017 to 2020. The project involved data cleaning, preparation, normalization, creation of calculated fields, visual design aligned with institutional branding, and publishing interactive dashboards for stakeholder use. [Reflective Diary](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Business-Intelligence-and-Data-Visualization/ST83519_Sergejs_Kopils_Business%20Intelligence%20and%20Data%20Visualisation.pdf), [Presentation](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Business-Intelligence-and-Data-Visualization/ST83519_Sergejs_Kopils_Data_Visualization_Presentation.pdf).  
     - Tools: `Tableau Public`, `Tableau Desktop`, `Python` (for data preparation), `Interworks Color Tool`, `Adobe Color`
 

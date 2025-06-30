@@ -29,7 +29,7 @@
 
 ### 👨‍💻 Master of Natural Sciences in Computer Science: **[Data Analytics and Artificial Intelligence](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/)**
 
-### [Projects and Research](https://github.com/SergejsKopils/TSI-Institute)
+### Projects and Research
 
 - <b>Master Thesis</b>
   - [Analysis Of Data Synchronization Methods And Framework In Wire Arc Additive Manufacturing (WAAM)](https://github.com/SergejsKopils/TSI-Institute/blob/main/TSI-Thesis-waam-sync-anomaly-framework/docs/MaTSIposter_v29.pdf)</b>          

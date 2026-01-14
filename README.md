@@ -79,9 +79,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergejsKopils&theme=tokyonight)
-    
----
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergejsKopils&layout=compact&theme=tokyonight)
 
 [<img align="left" alt="sergejs-kopils | LinkedIn" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/linkedin-icon-3.svg" />][linkedin]
 [<img align="left" alt="sergejs.kopils | Instagram" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/instagram-2016-5.svg" />][instagram]

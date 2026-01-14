@@ -37,6 +37,8 @@ focusing on **data-driven manufacturing, automation, and analytical systems**.
 - **Data analytics & visualization** for complex technical datasets
 - **Computational design & engineering automation**
 - **Production AI & automation systems** for real-world applications
+- Engineering context: data-driven and computational workflows for **digital fabrication**
+  and physical products (boats, metal structures, furniture).
 
 ---
 

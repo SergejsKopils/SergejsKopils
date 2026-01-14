@@ -2,6 +2,111 @@
 <h3>Data & AI Engineer · Computational Designer</h3>
 
 I work at the intersection of **data engineering, artificial intelligence, and computational design**,  
+focusing on **data-driven manufacturing, automation, and analytical systems**.
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/github-icon-2.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/tableau-software.svg" />
+
+<br><br>
+
+<img align="left" alt="Rhino 3D Logo" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/SergejsKopils/Assets/main/icon/rhinoceros-3d-seeklogo.png"/>
+<img align="left" alt="Grasshopper Logo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/grasshopper-3d-seeklogo.png"/>
+<img align="left" alt="OnshapeLogo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Onshape%20logo.png"/>
+<img align="left" alt="Fusion 360 Logo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/autodesk-fusion-360-logo-png_seeklogo-482400.png"/>
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Photoshop_2.png" />
+<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Illustrator_2.png"/>
+<img align="left" alt="InDesign" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/InDesign_2.png"/>
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/unreal-engine.png"/>
+
+<br><br>
+
+---
+
+## Focus Areas
+
+- **Data synchronization & processing** for multi-source industrial systems (WAAM)
+- **Machine learning workflows**: clustering, classification, anomaly detection
+- **Data analytics & visualization** for complex technical datasets
+- **Computational design & engineering automation**
+- **Production AI & automation systems** for real-world applications
+
+---
+
+## Projects & Work
+
+### WAAM Data Synchronization & Analysis
+Geometry-based and temporal synchronization of multi-stream WAAM data  
+for process monitoring and anomaly detection in metal additive manufacturing.
+
+🔗 https://github.com/SergejsKopils/TSI-Institute  
+🛠 Python · pandas · NumPy · scikit-learn · Plotly · Dash · Open3D
+
+---
+
+### Applied AI & Automation (Nexora)
+Development of **production-ready AI and automation solutions**  
+for real businesses and operational workflows.
+
+- AI-powered assistants and automation systems
+- Data pipelines for booking, scheduling, and client interaction
+- Integration with external services and APIs
+- Deployment, monitoring, and iteration in production environments
+
+🔗 https://nexora.lv  
+🛠 Python · JavaScript · APIs · Data Processing · Automation · Deployment
+
+---
+
+### Computational Design & Engineering Automation
+Custom **scripts and macros** for automating engineering and fabrication workflows.
+
+- Python scripting for **Rhino 3D / Grasshopper** (parametric modeling, geometry automation)
+- **SolidWorks macros** for repetitive engineering and production tasks
+- Design-to-manufacturing automation and data extraction
+- Integration of geometry, parameters, and metadata for downstream analysis
+
+🛠 Rhino 3D · Grasshopper · SolidWorks · Python · VBA · Parametric Design
+
+---
+
+### Data Analytics & Visualization
+Applied data mining, predictive modeling, and visualization across  
+structured and unstructured datasets.
+
+🔗 https://github.com/SergejsKopils/TSI-Institute
+
+---
+
+## Background
+
+MSc Computer Science — **Data Analytics & Artificial Intelligence**  
+Transport and Telecommunication Institute (Riga) · University of the West of England (Bristol)
+
+---
+
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergejsKopils&layout=compact&theme=tokyonight)
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/linkedin-icon-3.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/instagram-2016-5.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/sergejs-kopils  
+[instagram]: https://www.instagram.com/sergejs.kopils
+
+<!--
+20260114
+
+<h1>Hi, I'm Serge!</h1>
+<h3>Data & AI Engineer · Computational Designer</h3>
+
+I work at the intersection of **data engineering, artificial intelligence, and computational design**,  
 focusing on **data-driven manufacturing, analytics pipelines, and visualization**.
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />

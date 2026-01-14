@@ -1,3 +1,88 @@
+<h1>Hi, I'm Serge!</h1>
+<h3>Data & AI Engineer · Computational Designer</h3>
+
+I work at the intersection of **data engineering, artificial intelligence, and computational design**,  
+focusing on **data-driven manufacturing, analytics pipelines, and visualization**.
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/github-icon-2.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/tableau-software.svg" />
+
+<br><br>
+
+<img align="left" alt="Rhino 3D Logo" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/SergejsKopils/Assets/main/icon/rhinoceros-3d-seeklogo.png"/>
+<img align="left" alt="Grasshopper Logo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/grasshopper-3d-seeklogo.png"/>
+<img align="left" alt="OnshapeLogo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Onshape%20logo.png"/>
+<img align="left" alt="Fusion 360 Logo" width="30" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/autodesk-fusion-360-logo-png_seeklogo-482400.png"/>
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Photoshop_2.png" />
+<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/Illustrator_2.png"/>
+<img align="left" alt="InDesign" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/InDesign_2.png"/>
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://github.com/SergejsKopils/Assets/blob/main/icon/unreal-engine.png"/>
+
+<br><br>
+
+---
+
+## Focus Areas
+
+- **Data synchronization & processing** for multi-source industrial systems (WAAM)
+- **Machine learning workflows**: clustering, classification, anomaly detection
+- **Data analytics & visualization** for complex technical datasets
+- **Computational design** combining geometry, data, and fabrication
+
+---
+
+## Projects & Research
+
+### WAAM Data Synchronization & Analysis
+Geometry-based and temporal synchronization of multi-stream WAAM data  
+for process monitoring and anomaly detection.
+
+🔗 https://github.com/SergejsKopils/TSI-Institute  
+🛠 Python · pandas · NumPy · scikit-learn · Plotly · Dash · Open3D
+
+---
+
+### Adverse Media Monitoring & Risk Assessment
+Automated AI-driven system for identifying reputational risks from online sources.
+
+🔗 https://github.com/SergejsKopils/Artificial-Intelligence-Group-Project  
+🛠 Python · OpenAI API · Google Search API · NLP
+
+---
+
+### Data Analytics & Visualization
+Applied data mining, predictive modeling, and visualization across  
+structured and unstructured datasets.
+
+🔗 https://github.com/SergejsKopils/TSI-Institute
+
+---
+
+## Background
+
+MSc Computer Science — Data Analytics & Artificial Intelligence  
+Transport and Telecommunication Institute (Riga) · University of the West of England (Bristol)
+
+---
+
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergejsKopils&layout=compact&theme=tokyonight)
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/linkedin-icon-3.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://github.com/SergejsKopils/Assets/blob/main/icon/instagram-2016-5.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/sergejs-kopils  
+[instagram]: https://www.instagram.com/sergejs.kopils
+
+<!--
+20260114
 
 <h1>Hi, I'm Serge!</h1>
 <h3>I'm interested in Artificial Intelligence and Machine Learning, as well as Architecture and Design.</h3>
